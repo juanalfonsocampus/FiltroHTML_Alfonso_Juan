@@ -13,10 +13,10 @@ Una página que muestra el tráiler de la serie y múltiples tomas de diferentes
 
 # Concepto
 
-![Landing](https://raw.githubusercontent.com/juanalfonsocampus/Proyecto_Filtro_Alfonso_Juan/main/Test_good/concept/1.png)
-![Personajes](https://raw.githubusercontent.com/juanalfonsocampus/Proyecto_Filtro_Alfonso_Juan/main/Test_good/concept/2.png)
-![Eleanor](https://raw.githubusercontent.com/juanalfonsocampus/Proyecto_Filtro_Alfonso_Juan/main/Test_good/concept/3.png)
-![Chidi](https://raw.githubusercontent.com/juanalfonsocampus/Proyecto_Filtro_Alfonso_Juan/main/Test_good/concept/4.png)
+![Landing](https://raw.githubusercontent.com/juanalfonsocampus/FiltroHTML_Alfonso_Juan/main/Proyecto%20actualizado/Test_good/concept/1.png)
+![Personajes](https://raw.githubusercontent.com/juanalfonsocampus/FiltroHTML_Alfonso_Juan/main/Proyecto%20actualizado/Test_good/concept/2.png)
+![Eleanor](https://raw.githubusercontent.com/juanalfonsocampus/FiltroHTML_Alfonso_Juan/main/Proyecto%20actualizado/Test_good/concept/3.png)
+![Chidi](https://raw.githubusercontent.com/juanalfonsocampus/FiltroHTML_Alfonso_Juan/main/Proyecto%20actualizado/Test_good/concept/4.png)
 
 # Instalación
 Descargar el documento comprimido y ejecutar la carpeta "Test_good" desde VisualStudio.
