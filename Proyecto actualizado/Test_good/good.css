@@ -1,0 +1,58 @@
+/* body {
+    background: url(/pics/101.png);
+    background-attachment:fixed ;
+    background-size: cover;
+    overflow-x: hidden;
+} */
+
+.bg-img {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    filter: brightness(0.8);
+    top: 0;
+    left: 0;
+    position: absolute;
+    z-index: -1;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+
+.navbar {  
+    font-family: 'Brandon';
+    color: blueviolet;
+}
+
+@font-face {
+    font-family: 'Brandon';
+    src: url(/Fonts/BrandonGrotesque-Bold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+.title {
+    font-family: 'Brandon';
+    font-size: 800%;
+    color: #00bd00;
+    letter-spacing: 0.01cap;
+    display: block;
+    text-align: center;
+    margin-top: 5%;
+    transition: 1s ease;
+  }
+
+.title:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+    }
+
+#navbarText{
+    font-size: 150%;
+}
+
+
+
+
