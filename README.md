@@ -12,13 +12,7 @@ Una breve descripción de la filosfía de vida de cada personaje.
 Una página que muestra el tráiler de la serie y múltiples tomas de diferentes episodios.
 
 # Concepto
-
-![Landing](https://raw.githubusercontent.com/juanalfonsocampus/FiltroHTML_Alfonso_Juan/main/Proyecto%20actualizado/Test_good/concept/1.png)
-![Personajes](https://raw.githubusercontent.com/juanalfonsocampus/FiltroHTML_Alfonso_Juan/main/Proyecto%20actualizado/Test_good/concept/2.png)
-![Eleanor](https://raw.githubusercontent.com/juanalfonsocampus/FiltroHTML_Alfonso_Juan/main/Proyecto%20actualizado/Test_good/concept/3.png)
-![Chidi](https://raw.githubusercontent.com/juanalfonsocampus/FiltroHTML_Alfonso_Juan/main/Proyecto%20actualizado/Test_good/concept/4.png)
-
-https://www.canva.com/design/DAGJ__2pwl4/bAJPLlxKgJ9QTcETrB2E-g/view?utm_content=DAGJ__2pwl4&utm_campaign=designshare&utm_medium=link&utm_source=editor
+https://www.canva.com/design/DAGKdcbQXKY/XUAsu4aJt5q7ic9VhfmzMg/view?utm_content=DAGKdcbQXKY&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 # Instalación
 Descargar el documento comprimido y ejecutar la carpeta "Test_good" desde VisualStudio.
