@@ -13,7 +13,7 @@ Una página que muestra el tráiler de la serie y múltiples tomas de diferentes
 
 # Concepto
 
-!(https://raw.githubusercontent.com/juanalfonsocampus/FiltroHTML_Alfonso_Juan/main/Inicio_Landing.png)
+(https://raw.githubusercontent.com/juanalfonsocampus/FiltroHTML_Alfonso_Juan/main/Inicio_Landing.png)
 
 
 https://www.canva.com/design/DAGKdcbQXKY/XUAsu4aJt5q7ic9VhfmzMg/view?utm_content=DAGKdcbQXKY&utm_campaign=designshare&utm_medium=link&utm_source=editor
