@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="/Shop/style.css">
+	<link rel="stylesheet" href="/Shop/cart.css">
+	<script src="/Shop/js/merch.js"></script>
+	<script src="/Shop/js/cartService.js" defer></script>
+	<script src="/Shop/js/cart.js" defer></script>
+	<title>The Good Place - Carrito</title>
+</head>
+
+<body>
+	<header>
+		<nav>
+			<a href="/index.html"><img src="/Shop/img/logo.png" alt="Logo" id="logo"></a>
+			<div>
+				<a href="/index.html">Main site</a>
+				<a href="/Shop/cart.html" id="cart"><img src="/Shop/img/shopping-cart.png" alt=""><span
+						id="cuenta-carrito">0</span></a>
+			</div>
+		</nav>
+	</header>
+	<main>
+		<p id="carrito-vacio">¡Los sentimos! No tienes productos el carrito. <a href="./index.html">Elige algunos productos</a></p>
+		<section id="cart-container">
+		</section>
+		<section id="totales">
+			<p>Total unidades: <span id="cantidad">0</span></p>
+			<p>Total precio: $<span id="precio">0</span></p>
+			<button class="end">Comprar</button>
+			<button id="reiniciar" class="end">Reiniciar</button>
+		</section>
+	</main>
+	<footer>
+		<p>Our products were made with (hopefully) ethically sourced material.</p>
+	</footer>
+</body>
+
+</html>
