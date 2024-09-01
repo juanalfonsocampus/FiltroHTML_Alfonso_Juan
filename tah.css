@@ -52,3 +52,9 @@ p {
 
 }
 
+@media screen and (max-width: 768px) {
+    .compare {
+        flex-wrap: wrap;
+        }
+  }
+

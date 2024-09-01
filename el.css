@@ -48,7 +48,12 @@ p {
     align-items: center;
     align-content: space-evenly;
     justify-content: center;
-    gap: 10%
-
+    gap: 10%;
+    
 }
+
+@media screen and (max-width: 768px) {
+    .compare {
+        flex-wrap: wrap;    }
+  }
 
