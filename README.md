@@ -10,6 +10,8 @@ Una tabla simple que muestra los créditos de la serie. Incluye el nombre real d
 Una breve descripción de la filosfía de vida de cada personaje.
 ## :tv: Avances
 Una página que muestra el tráiler de la serie y múltiples tomas de diferentes episodios.
+## :money_with_wings: Store
+Una sección donde el usuario podrá explorar el *merchandising* disponible para la venta y añadir sus productos favoritos al carrito de compras.
 
 # Concepto
 
@@ -18,7 +20,15 @@ Una página que muestra el tráiler de la serie y múltiples tomas de diferentes
 https://www.canva.com/design/DAGKdcbQXKY/XUAsu4aJt5q7ic9VhfmzMg/view?utm_content=DAGKdcbQXKY&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 # Instalación
-Descargar el documento comprimido y ejecutar la carpeta "Test_good" desde VisualStudio.
+
+```
+git clone https://github.com/juanalfonsocampus/FiltroHTML_Alfonso_Juan
+cd FiltroHTML_Alfonso_Juan
+
+```
+# Licencia
+
+Este proyecto se encuentra amparado bajo la licencia MIT.
 
 # Sugerencias
 

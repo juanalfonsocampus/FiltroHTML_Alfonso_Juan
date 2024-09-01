@@ -6,7 +6,7 @@ function crearTarjetasProductosInicio(productos){
     const nuevaMerch = document.createElement("div");
     nuevaMerch.classList = "tarjeta-producto"
     nuevaMerch.innerHTML = `
-    <img src="./img/productos/${producto.id}.jpg" alt="Bicicleta 1">
+    <img src="/Shop/img/productos/${producto.id}.jpg" alt="Bicicleta 1">
     <h3>${producto.nombre}</h3>
     <p class="precio">$${producto.precio}</p>
     <button>Agregar al carrito</button>`
