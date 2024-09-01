@@ -13,11 +13,21 @@ Una página que muestra el tráiler de la serie y múltiples tomas de diferentes
 ## :money_with_wings: Store
 Una sección donde el usuario podrá explorar el *merchandising* disponible para la venta y añadir sus productos favoritos al carrito de compras.
 
+# Tienda (Nueva función)
+
+![image](https://github.com/user-attachments/assets/a4d5b793-4819-4b33-afbe-6d4a672cfdaa)
+
+Con la incorporación de una nueva tienda virtual, el usuario podrá explorar y comprar productos relacionados con la serie y sus personajes.
+
 # Concepto
 
 ![enter image description here](https://raw.githubusercontent.com/juanalfonsocampus/FiltroHTML_Alfonso_Juan/main/Inicio_Landing.png)
 
 https://www.canva.com/design/DAGKdcbQXKY/XUAsu4aJt5q7ic9VhfmzMg/view?utm_content=DAGKdcbQXKY&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+# Tipografía
+
+![Brandon](https://github.com/user-attachments/assets/9fa6d468-f4e1-4303-a213-fbffbfac7ee5)
 
 # Instalación
 
