@@ -1,0 +1,85 @@
+.bg-img {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    filter: brightness(0.8);
+    top: 0;
+    left: 0;
+    position:absolute;
+    z-index: -1;
+    position: fixed;
+}
+
+body {
+    overflow-x: hidden;
+    font-family: 'Brandon';
+}
+
+@font-face {
+    font-family: 'Brandon';
+    src: url(/Fonts/BrandonGrotesque-Bold.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+.group {
+    display: flex;
+    justify-content: center;
+}
+
+.second {
+    display: flex;
+    justify-content: center;
+}
+
+.third {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {  
+    font-family: 'Brandon';
+}
+
+.all {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-items: center;
+}
+
+.all:hover { 
+    animation: Shake 0.5s linear infinite; 
+} 
+  
+@keyframes Shake { 
+    0% { 
+        transform: rotate(5deg); 
+    } 
+  
+    25% { 
+        transform: rotate(-6deg); 
+    } 
+  
+    50% { 
+        transform: rotate(5deg); 
+    } 
+  
+    75% { 
+        transform: rotate(-6deg); 
+    } 
+  
+    100% { 
+        transform: rotate(5deg); 
+    } 
+
+}
+
+.videooo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-items: center;
+}
